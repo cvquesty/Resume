@@ -7,8 +7,8 @@ Senior Contributor, Team Lead, and Architectural Expert
 
 Profile:Talented Technology Thought-Leader with twenty-six years progressively responsible IT experience. Puppet Configuration Management architecture, deployment, consulting, and instruction. Linux systems Engineering, Architecture, and workstation optimization. Identity Management and delivery, RSA secure token management and delivery.Experience:
 
-PayPal, Inc. - Scottsdale, AZ
-Security Architect - DevSecOps - 8/2016 - Present
+PayPal, Inc. - Atlanta, GA - Remote
+Senior Continuous Security Strategist - Infrastructure Automation- 8/2016 - Present
 Team Lead - Puppet Automation
 Duties: Perform architectural design and review for PayPal DevOps infrastructure initiatives. Act as SME for Puppet Configuration management tools and methods, Continuous Integration, and DevSecOps techniques.
 * Remote leadership and management of Puppet automation infrastructure, training and development of automation engineers for team project work.  Set standard and style guide for automation development.
