@@ -2,7 +2,7 @@ My professional resume including information regarding
 education, certification, and publications.
 
 Jerald M. Sheets jr.<br>
-Sr. Puppet and Solutions Architect<br>
-Shadow Soft, Inc.<br>
-http://shadow-soft.com<br>
+Owner and CEO,<br>
+S & S Consulting Group, LLC.<br>
+https://ssconsultinggroup.net<br>
 http://questy.org<br>
