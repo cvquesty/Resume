@@ -9,28 +9,32 @@ http://questy.org<br>
 
 **Certifications/Training**<br>
 
-St. Stephen's University<br>
+**St. Stephen's University**<br>
 St. Stephen, New Brunswick, CA<br>
 Bachelor of Arts - Christian Studies<br>
-Vineyard School of Ministry<br>
+<br>
+**Vineyard School of Ministry**<br>
 * Practical Theology Certificate<br>
 * Biblical Theology Certificate<br>
 * Kingdom Theology Certificate<br>
 <br>
-Vineyard Institute<br>
+
+**Vineyard Institute**<br>
 * Advanced Certificate of Bibleical Leadership<br>
 
-Vendor:<br>
+**Vendor Training:**<br>
+<br>
+**RedHat:**
 RHCE/RHCSA 2014 - 2020<br>
 RedHat Certification in Server Hardening 2014 - 2020<br>
 Puppet Certified Professional 2014<br>
 Puppet Certified Professional 2018<br>
 Puppet Certified Consultant 2015-2016<br>
 Puppet Certified Consultant 2019-Present<br>
-
-LinkedIn Learning<br>
-
-AWS Services:<br>
+<br>
+**LinkedIn Learning**<br>
+<br>
+**AWS Services:**<br>
 * Essential Training<br>
 * Enterprise Security<br>
 * High Availability<br>
@@ -42,7 +46,7 @@ AWS Services:<br>
 * Learning Terraform<br>
 * Docker Essential Training<br>
 <br>
-CISSP Certification Prep:<br>
+**CISSP Certification Prep:**<br>
 * Cert Prep: The Basics<br>
 * Part 1: Security and Risk Management<nr>
 * Part 2: Asset Security<br>
