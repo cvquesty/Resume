@@ -7,7 +7,7 @@ S & S Consulting Group, LLC.<br>
 https://ssconsultinggroup.net<br>
 http://questy.org<br>
 
-Certifications/Training<br>
+**Certifications/Training**<br>
 
 St. Stephen's University<br>
 St. Stephen, New Brunswick, CA<br>
@@ -16,6 +16,7 @@ Vineyard School of Ministry<br>
 * Practical Theology Certificate<br>
 * Biblical Theology Certificate<br>
 * Kingdom Theology Certificate<br>
+<br>
 Vineyard Institute<br>
 * Advanced Certificate of Bibleical Leadership<br>
 
