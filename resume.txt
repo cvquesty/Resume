@@ -5,41 +5,42 @@ jerald.sheets@gmail.com
 
 Senior Contributor, Team Lead, and Architectural Expert
 
-Profile:Talented Technology Thought-Leader with twenty-six years progressively responsible IT experience. Puppet Configuration Management architecture, deployment, consulting, and instruction. Linux systems Engineering, Architecture, and workstation optimization. Identity Management and delivery, RSA secure token management and delivery.Experience:
-
+Profile:Talented Technology Thought-Leader with twenty-nine years progressively responsible IT experience. Puppet Configuration Management architecture, deployment, consulting, and instruction. Linux systems
+
+
 PayPal, Inc. - Atlanta, GA - Remote
 Senior Continuous Security Strategist - Infrastructure Automation- 8/2016 - Present
 Team Lead - Puppet Automation
 Duties: Perform architectural design and review for PayPal DevOps infrastructure initiatives. Act as SME for Puppet Configuration management tools and methods, Continuous Integration, and DevSecOps techniques.
-* Remote leadership and management of Puppet automation infrastructure, training and development of automation engineers for team project work.  Set standard and style guide for automation development.
-* Built and deployed 100% automated CI pipeline for automation platform development using Puppet, Jenkins, GitHub, Docker, Beaker RSPEC/ServerSpec testing and other technologies.
+* Remote leadership and management of Puppet automation infrastructure, training, and development of automation engineers for team project work. Set standard and style guide for automation development.
+* Built and deployed 100% automated CI pipeline for automation platform development using Puppet, Jenkins, GitHub, Docker, Litmus and Onceover RSPEC/ServerSpec testing and other technologies.
 * Work in AWS, Google Cloud, and other proprietary cloud infrastructures to deliver containerized applications as well as traditional server architectures. Migration and automation of cloud infrastructures with Puppet, Vagrant, and other emerging technologies.
 
 Shadow-Soft - Atlanta, GA
 Sr. Puppet and Solutions Architect - Consultant - 1/2014 - 8/2016
 Team Lead - Puppet and DEVOPS Consulting/Implementation and training
-Duties: Perform professional engagements with clients nationwide on behalf of Puppet Labs.  Execute PE Bootstraps, pair module programming, consultation, and engineering.  RedHat Professional Services engagements and consultations.
-* Travel nationwide and implement Puppet Enterprise in both greenfield and brownfield scenarios as a Puppet Labs Certified Consultant.  Delivered as a Puppet Labs resource through our partner relationships with Puppet Labs.
-* Blog instructionally on Puppet topics and for corporate web presence on DEVOPS topics and methodologies.  Speak at Puppet Camp Atlanta, and provide support on Puppet Labs- Slack support channel through community engagement.
+Duties: Perform professional engagements with clients nationwide on behalf of Puppet Labs. Execute PE Bootstraps, pair module programming, consultation, and engineering. RedHat Professional Services engagements and consultations.
+* Travel nationwide and implement Puppet Enterprise in both greenfield and brownfield scenarios as a Puppet Labs Certified Consultant. Delivered as a Puppet Labs resource through our partner relationships with Puppet Labs.
+* Blog instructionally on Puppet topics and for corporate web presence on DEVOPS topics and methodologies. Speak at Puppet Camp Atlanta and provide support on Puppet Labs’ Slack support channel through community engagement.
 * Train and develop customers on the use of Puppet for their corporate environments.
 * Lead team of consultants, and train and equip team for Puppet based engagements nationwide.
-* Automate Cloud infrastructures to include AWS, and OpenStack both with RedHat and Open Source technologies internally and for clients nationwide.
+* Automate Cloud infrastructures to include AWS, and OpenStack both with RedHat and Open-Source technologies internally and for clients nationwide.
 
-Accelarad, Inc. - Atlanta, GA
-Sr. Linux Systems Architect - IT Operations - 7/2013 - 1/2014
-Senior Linux/Puppet team member for Accelarad Atlanta Headquarters (now Nuance)
-Duties: Straight Systems architecture and administration for SAAS Radiology provider in the Atlanta market.  Provisioning, Puppet configuration management, all architectural design and implementation. 
+Accelarad, Inc. – Atlanta, GA
+Sr. Linux Systems Architect – IT Operations – 7/2013 – 1/2014
+Senior Linux/Puppet team leader for Accelarad Atlanta Headquarters (now Nuance)
+Duties: Straight Systems architecture and administration for SAAS Radiology provider. Provisioning, Puppet configuration management, all architectural design and implementation.
 * Designed, developed, and implemented primary monitoring solution for all hosts, applications, and networking infrastructure.
-* Conceived, designed, installed and implemented Puppet Community configuration management system with Passenger and MCollective as well as developed and implemented all modules and manifests.  Developed deployment system for development team and implemented -push button- integration system for code deployment.
+* Conceived, designed, installed, and implemented Puppet Community configuration management system with Passenger and MCollective as well as developed and implemented all modules and manifests. Developed deployment system for development team and implemented “push button” integration system for code deployment.
 * Conceived, designed, developed, and implemented cohesive provisioning system with transparent configuration management handoff.
 
-Apple, Inc. - Maiden, NC
-Sr. UNIX Systems Administrator - GCS Retail - 7/2011 - 6/2013
+Apple, Inc. – Maiden, NC
+Sr. UNIX Systems Engineer – GCS Retail – 7/2011 – 6/2013
 Retail Systems Engineer and Puppet SME for worldwide Apple Retail Chain
-Duties: Perform systems administration, architecture, and engineering tasks for Apple retail stores worldwide to include OSX Server and RHEL 6.2 systems.  Provisioning of Mac Pro and Linux systems as POS Production systems in retail stores, troubleshooting various issues in-store as they arise, and working with store staff to resolve issues.
-* Upgraded all retail stores worldwide from OSX Server 10.5.8 to 10.6.5, deploying new Netboot imaging servers to all retail stores and updating all system images to the latest levels certified by POS Team.  Developed Perl -glue- code to automate the procedure from data center servers.
+Duties: Perform systems administration, architecture, and engineering tasks for Apple retail stores worldwide to include OSX Server and RHEL 6.2 systems. Provisioning of Mac Pro and Linux systems as POS Production systems in retail stores, troubleshooting various issues in-store as they arise, and working with store staff to resolve issues.
+* Upgraded all retail stores worldwide from OSX Server 10.5.8 to 10.6.5, deploying new Netboot imaging servers to all retail stores and updating all system images to the latest levels certified by POS Team. Developed Perl “glue” code to automate the procedure from data center servers.
 * Performed New Store Openings for the 2011/2012 season, executing GCS Retail tasks on an aggressive timeline for opening day. with Retail groups, coordinating across IS&T, GNS, and other groups as necessary.
-* Architected, developed and deployed Puppet Configuration management system for systems throughout the retail chain worldwide.  Deployed Puppet infrastructure to retail stores through staged rollout without unplanned outages.
+* Architected, developed and deployed Puppet Configuration management system for systems throughout the retail chain worldwide. Deployed Puppet infrastructure to retail stores through staged rollout without unplanned outages.
 
 Incomm, Inc. - Atlanta, GA
 Sr. Linux Systems Administrator - Operations Group - 11/2010 - 7/2011
@@ -179,8 +180,10 @@ Computer Expertise:* RHCE/RHCSA/RHSH #140-046-236
 Of Note:Chairman of the Board of Directors, CorpsVets, Inc. http://www.atlantacv.org
 Owner/Operator of home-based PC & Linux Small-Business Server Consulting Company.
 Staff Author - Linux.com (OSDN Network)
-   - -Kickstarting Linux Client Installs-, Internet Website: http://www.linux.com/archive/feature/113526, 2003
-   - -Making Open Webmail Work-, Internet Website http://archive09.linux.com/articles/33550, 2004
+   - "Kickstarting Linux Client Installs", Internet Website: http://www.linux.com/archive/feature/113526, 2003
+   - "Making Open Webmail Work", Internet Website http://archive09.linux.com/articles/33550, 2004
+Contributing Author – Puppet.com
+   - “Scaling Open-Source Puppet”, Internet Website https://puppet.com/blog/scaling-open-source-puppet/, 2020
 LinkedIn Profile: https://www.linkedin.com/in/jeraldsheets/
 -Jerald is a great asset to this team and PayPal as a whole. Jerald if very knowledgeable in his areas and has quickly become the 'go to' person for Puppet. This coming year we are going to get Jerald involved in more projects which will allow Jerald to expand his skill set and lend a helping hand to the rest of the team. I have no doubt that Jerald will quickly become a strong lead member of this team.-
  - Thomas Fosbenner
