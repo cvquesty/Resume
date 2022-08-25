@@ -6,6 +6,12 @@ Owner and CEO,<br>
 S & S Consulting Group, LLC.<br>
 https://ssconsultinggroup.net<br>
 http://questy.org<br>
+912-549-0272<br>
+
+**Resumes**<br>
+[Professional Technical Resume](https://github.com/cvquesty/Resume/raw/master/resume.pdf)<br>
+[Ministry Resume](https://github.com/cvquesty/Resume/raw/master/Worship%20Resume.pdf)<br>
+References<br>
 
 **Certifications/Training**<br>
 
