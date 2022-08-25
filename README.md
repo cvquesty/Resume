@@ -29,8 +29,10 @@ RHCE/RHCSA 2014 - 2020<br>
 RedHat Certification in Server Hardening 2014 - 2020<br>
 Puppet Certified Professional 2014<br>
 Puppet Certified Professional 2018<br>
+Puppet Certified Professionsl 2019<br>
 Puppet Certified Consultant 2015-2016<br>
 Puppet Certified Consultant 2019-Present<br>
+AWS Practitioner - 2020<br>
 <br>
 **LinkedIn Learning**<br>
 <br>
@@ -56,4 +58,3 @@ Puppet Certified Consultant 2019-Present<br>
 IBM AIX Basic and Advanced Admnistration<br>
 Sun StorageTek Library Administration<br>
 Quantum StorNext Administration<br>
-
