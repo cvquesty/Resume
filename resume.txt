@@ -5,41 +5,151 @@ jerald.sheets@gmail.com
 
 Senior Contributor, Team Lead, and Architectural Expert
 
-Profile:Talented Technology Thought-Leader with twenty-six years progressively responsible IT experience. Puppet Configuration Management architecture, deployment, consulting, and instruction. Linux systems Engineering, Architecture, and workstation optimization. Identity Management and delivery, RSA secure token management and delivery.Experience:
-
+Profile:Talented Technology Thought-Leader with twenty-nine years progressively responsible IT experience. Puppet Configuration Management architecture, deployment, consulting, and instruction. Linux systems
+
+
+
+Penacity, LLC. - Hanover MD - Remote
+Sr. Automation Solutions Architect - Puppet Enterprise - 3/2022 - Present
+Team Lead - Puppet Automation
+Duties: Perform architectural design and implementation of Puppet Enterprise in on premises and AWS environments both for U.S. Government clients and the corporate office. Act as SME for all Puppet Configuration Management tools and methods, Automation, CI/CD, and Development in regrds to Puppet.
+•	Remote leadership of Puppet Enterprise Infrastructure and cloud envirionments.
+•	Puppet Enterprise and Community development, implementation and deployment in secured government environments with and without network egress.
+•	AWS-Based Puppet build and deployment as well as module design, Roles and Profiles pattern implementation and management, and problem resolution in secure and non-secured environments.
+
+PayPal, Inc. – Atlanta, GA - Remote
+Sr. Continuous Security Strategist – Infrastructure Automation - 8/2016 – 3/2022
+Team Lead – Puppet Automation
+Duties: Perform architectural design and review for PayPal DevOps infrastructure initiatives. Act as SME for Puppet Configuration management tools and methods, Continuous Integration, and DevSecOps techniques.
+•	Remote leadership and management of Puppet automation infrastructure, training, and development of automation engineers for team project work.  Set standard and style guide for automation development.
+•	Built and deployed 100% automated CI pipeline for automation platform development using Puppet, Jenkins, GitHub, Docker, Litmus and Onceover RSPEC/ServerSpec testing and other technologies.
+•	Work in AWS, Google Cloud, and other proprietary cloud infrastructures to deliver containerized applications as well as traditional server architectures. Migration and automation of cloud infrastructures with Puppet, Vagrant, and other emerging technologies.
+
+Shadow-Soft – Atlanta, GA
+Sr. Puppet and Solutions Architect – Consultant – 1/2014 – 8/2016
+Team Lead – Puppet and DEVOPS Consulting/Implementation and training
+Duties: Perform professional engagements with clients nationwide on behalf of Puppet Labs.  Execute PE Bootstraps, pair module programming, consultation, and engineering.  RedHat Professional Services engagements and consultations.
+•	Travel nationwide and implement Puppet Enterprise in both greenfield and brownfield scenarios as a Puppet Labs Certified Consultant.  Delivered as a Puppet Labs resource through our partner relationships with Puppet Labs.
+•	Blog instructionally on Puppet topics and for corporate web presence on DEVOPS topics and methodologies.  Speak at Puppet Camp Atlanta and provide support on Puppet Labs’ Slack support channel through community engagement.
+•	Train and develop customers on the use of Puppet for their corporate environments.
+•	Lead team of consultants, and train and equip team for Puppet based engagements nationwide.
+•	Automate Cloud infrastructures to include AWS, and OpenStack both with RedHat and Open-Source technologies internally and for clients nationwide.
+
+Accelarad, Inc. – Atlanta, GA
+Sr. Linux Systems Architect – IT Operations – 7/2013 – 1/2014
+Senior Linux/Puppet team leader for Accelarad Atlanta Headquarters (now Nuance)
+Duties: Straight Systems architecture and administration for SAAS Radiology provider. Provisioning, Puppet configuration management, all architectural design and implementation. 
+•	Designed, developed, and implemented primary monitoring solution for all hosts, applications, and networking infrastructure.
+•	Conceived, designed, installed, and implemented Puppet Community configuration management system with Passenger and MCollective as well as developed and implemented all modules and manifests.  Developed deployment system for development team and implemented “push button” integration system for code deployment.
+•	Conceived, designed, developed, and implemented cohesive provisioning system with transparent configuration management handoff.
+
+Apple, Inc. – Maiden, NC
+Sr. UNIX Systems Engineer – GCS Retail – 7/2011 – 6/2013
+Retail Systems Engineer and Puppet SME for worldwide Apple Retail Chain
+Duties: Perform systems administration, architecture, and engineering tasks for Apple retail stores worldwide to include OSX Server and RHEL 6.2 systems.  Provisioning of Mac Pro and Linux systems as POS Production systems in retail stores, troubleshooting various issues in-store as they arise, and working with store staff to resolve issues.
+•	Upgraded all retail stores worldwide from OSX Server 10.5.8 to 10.6.5, deploying new Netboot imaging servers to all retail stores and updating all system images to the latest levels certified by POS Team.  Developed Perl “glue” code to automate the procedure from data center servers.
+•	Performed New Store Openings for the 2011/2012 season, executing GCS Retail tasks on an aggressive timeline for opening day. with Retail groups, coordinating across IS&T, GNS, and other groups as necessary.
+•	Architected, developed and deployed Puppet Configuration management system for systems throughout the retail chain worldwide.  Deployed Puppet infrastructure to retail stores through staged rollout without unplanned outages.
+
+Incomm, Inc. – Atlanta, GA
+Sr. Linux Systems Administrator – Operations Group – 11/2010 – 7/2011
+Industry leader marketer, distributor, and technology innovator of stored-value gift and prepaid products.
+Duties: Systems administrator and technologist for online pre-paid serving infrastructure at company headquarters in Atlanta, GA.  Straight administration and project architecture including full hardware procurement responsibilities, team interaction to guide technical project requirements, servicing of project requirements, and internal business tool creation and administration.  Commodity hardware, virtual machines and automated load (Kickstart) environment management.  “War room” duties during peak times for incident response.
+•	Developed new inventory system for team, collected inventory, and populated with asset information.
+•	Managed Kickstart environment (plus PXE) and stand-up servers very quickly on an as-needed basis.
+
+Intercontinental Hotels Group – Atlanta, GA
+Sr. Technology Consultant – Contractor, Principal Solutions Group – 8/2010 – 10/2010
+The world’s largest Hotels group with over 650,000 rooms over 4500 hotels in 100 countries Internet web presence.  
+Duties:  Work on company projects on an “as assigned” basis.  Projects include Terracotta, Perl scripting, inventory and asset management, and ActiveMQ.  System procurement, implementation, provisioning and deployment including RedHat Enterprise Linux Server 5, HP’s XP24000 storage array.
+Key Contributions:
+•	Researched, ordered, installed Terracotta & Ehcache system to be leveraged across all production RedHat and Solaris based serving environments.
+•	Provide research and reporting on Puppet Configuration Management system, Xymon monitoring system, and implementing Hyperic clients throughout the environment.
+
+CNN News Systems – Atlanta, GA
+Senior Systems Engineer – CNN BEST – 10/2008 – 8/2010
+Cable Television’s premier news source, CNN’s newsroom systems support team.  The largest newsgathering, storage, and retrieval infrastructure in the Television News industry.
+Duties:  Primarily responsible for maintenance, configuration, and development of the CNN Library archive.  This includes the Sun StorageTek SL8500 Library and the Quantum StorNext Filesystem and supporting RHEL 5.2-5.4 and Solaris 10 systems.  Basic Administration duties, design and implementation of new systems and technologies, systems programming in Perl, and storage administration for the Digital Archive.  Kickstart server installation and configuration, and LDAP implementation and management.
+Key Contributions:
+•	Transitioned entire digital media archive over to newly created group’s data center, architected and migrated authentication and monitoring as well as deployed client support at the host level throughout the environment without downtime and under budget.
+•	Managed downtimes, hardware and software upgrades, team coordination of serving software patches and builds.
+•	Performed on-call duties on a bi-weekly basis throughout my tenure at CNN, covering 24x7 call without an operations group or Network Operations Center to triage issues.
+
+The Weather Channel Interactive – Atlanta, GA
+Senior Linux Systems Administrator – Operations – 06/2005 – 10/2008
+Cable television’s The Weather Channel’s web-facing Internet presence.  The largest non-portal website in the world, serving tens of millions of unique visitors daily
+Duties:  Responsible for the daily maintenance and configuration of the Apache web server, Tomcat servlet container, and SuSE 9 & 10 Linux platform.  Optimization and performance tuning of the Sun JVM, memory profiling, and enhanced configuration management in an extremely fast-paced mission critical Internet environment. Implemented VMWare server environment for development and testing systems.
+Key Contributions:
+•	Worked closely with development team to troubleshoot software issues relating to the server OS and the software build process and environment.
+•	Built and deployed new build environments for new product assets throughout live site with no downtime and easy failover.
+•	Increased serving speed by as much as 30% in some systems by performance tuning of the Sun Java Virtual Machine.
+•	Researched and deployed incremental upgrades for Apache, Tomcat, and the mod_jk connector, compiling each with custom settings to maximize systems efficiency to serve 30-50 million unique page views per day escalating as high as 90 million during special weather events.
+
+McKesson, Inc. - Atlanta, GA
+Senior UNIX/Linux Systems Administrator – TSG -12/2004 – 06/2005
+Fortune 16 Pharmaceutical Company specializing in medication delivery hardware and software.  Install base throughout the U.S. and abroad in the healthcare industry, built on HP-UX, AIX5L, and RedHat Linux.
+Duties:  Defined, designed, and implemented UNIX software and solutions. Proposed and implemented system enhancements (software and hardware updates) that improved the performance and reliability of the customer UNIX systems. Managed load configuration of UNIX Systems performed telephone support and triage of installed customer systems, and routed calls to appropriate parties when not directly UNIX Administration related.
+
+Datatrac, Inc. - Atlanta, GA
+Sr. UNIX/Linux Systems Administrator, Techops - 5/2004 to 11/2004
+Transportation Industry player serving several thousand users, both web-hosted and installed across the continental United States. Custom Software suite built on AIX, RedHat Linux, and SCO OpenServer.
+Duties:  Manage farm of installed AIX, SCO, and RedHat Linux systems (8.x, 9.x, ES3) for an installed user base of over 10,000 customers. Both web hosted and installed user base serving the transportation industry with package shipping, tracking, GPS, and wireless notification systems. Installation of AIX, RedHat Linux, and migration from SCO to one of the other platforms supported. Managed, installed Legato Backup systems, Backup Edge, and AIX mksysb management. Installation and maintenance of Big Brother Network Monitor, both Professional and "Better than Free" versions. Responsible for disaster recovery, internal systems security, log monitoring and systems surveys and administration.
+Key Contributions:
+•	Tackled disarray of the monitoring system and revamped entire configuration hierarchy. Installed larrd and ntop monitoring, and began to locate errant processes, and offloaded resource hogs to new systems.
+•	Produced instructional documentation for upper management to inform and encourage a direction in preparing for SCO decommissioning and subsequent customer migrations to new platforms.
+
+Our Lady of the Lake Regional Medical Center – Baton Rouge, LA
+Sr. AIX Systems Administrator, IT Department – 5/2001 to 4/2004
+Large regional hospital serving a 13 Parish area in Southern Louisiana utilizing the latest in healthcare ERP software such as Cerner and Lawson financials.
+Duties:  Manage large network of enterprise class IBM RS/6000 servers serving over 5,000 users.  Implemented Linux servers for DNS and Web tasks, Managed Tivoli Storage Manager, IBM 3494 Tape library, and ESS/SSA Disk storage subsystems.  
+Key Contributions:
+•	Implemented Tomcat server for Lawson Financials system on AIX.  Installed web-monitoring tools for Lawson.
+•	Migrated all DNS servers to RedHat Linux appliances to offload non-application related services to outboard gear and centralize primary server management.
+•	Upgraded from ADSM 3.1 to Tivoli 4.2 enterprise wide, coordinated multi-team effort in replacing all client code, rewriting scripts to conform to new version, and generated post-mortem for management review.
+•	Wrote and deployed Systems Management scripts enterprise wide to monitor all UNIX servers, Tivoli Storage Manager, and notify the Systems administration team of system anomalies.
+
+Thomson Financial – Rockville, Maryland
+Sr. UNIX Systems Administrator, IT Department – 2/2001 – 5/2001
+World Headquarters of Thomson Financial housing over 200 online systems and 50 internal systems utilizing Solaris, SCO Open Server, RedHat Linux, and HP/UX.
+Duties:  Managed and supported large network of a large array of UNIX servers providing E-Commerce, Financial management, and Education scheduling and planning.
+Key Contributions:
+•	Implemented wide scale usage of Open-Source tools for development teams for online E-commerce applications.
+•	Evaluated Systems Monitoring Software and implemented various projects for evaluation by management and coworkers.
+
+
 PayPal, Inc. - Atlanta, GA - Remote
 Senior Continuous Security Strategist - Infrastructure Automation- 8/2016 - Present
 Team Lead - Puppet Automation
 Duties: Perform architectural design and review for PayPal DevOps infrastructure initiatives. Act as SME for Puppet Configuration management tools and methods, Continuous Integration, and DevSecOps techniques.
-* Remote leadership and management of Puppet automation infrastructure, training and development of automation engineers for team project work.  Set standard and style guide for automation development.
-* Built and deployed 100% automated CI pipeline for automation platform development using Puppet, Jenkins, GitHub, Docker, Beaker RSPEC/ServerSpec testing and other technologies.
+* Remote leadership and management of Puppet automation infrastructure, training, and development of automation engineers for team project work. Set standard and style guide for automation development.
+* Built and deployed 100% automated CI pipeline for automation platform development using Puppet, Jenkins, GitHub, Docker, Litmus and Onceover RSPEC/ServerSpec testing and other technologies.
 * Work in AWS, Google Cloud, and other proprietary cloud infrastructures to deliver containerized applications as well as traditional server architectures. Migration and automation of cloud infrastructures with Puppet, Vagrant, and other emerging technologies.
 
 Shadow-Soft - Atlanta, GA
 Sr. Puppet and Solutions Architect - Consultant - 1/2014 - 8/2016
 Team Lead - Puppet and DEVOPS Consulting/Implementation and training
-Duties: Perform professional engagements with clients nationwide on behalf of Puppet Labs.  Execute PE Bootstraps, pair module programming, consultation, and engineering.  RedHat Professional Services engagements and consultations.
-* Travel nationwide and implement Puppet Enterprise in both greenfield and brownfield scenarios as a Puppet Labs Certified Consultant.  Delivered as a Puppet Labs resource through our partner relationships with Puppet Labs.
-* Blog instructionally on Puppet topics and for corporate web presence on DEVOPS topics and methodologies.  Speak at Puppet Camp Atlanta, and provide support on Puppet Labs- Slack support channel through community engagement.
+Duties: Perform professional engagements with clients nationwide on behalf of Puppet Labs. Execute PE Bootstraps, pair module programming, consultation, and engineering. RedHat Professional Services engagements and consultations.
+* Travel nationwide and implement Puppet Enterprise in both greenfield and brownfield scenarios as a Puppet Labs Certified Consultant. Delivered as a Puppet Labs resource through our partner relationships with Puppet Labs.
+* Blog instructionally on Puppet topics and for corporate web presence on DEVOPS topics and methodologies. Speak at Puppet Camp Atlanta and provide support on Puppet Labs’ Slack support channel through community engagement.
 * Train and develop customers on the use of Puppet for their corporate environments.
 * Lead team of consultants, and train and equip team for Puppet based engagements nationwide.
-* Automate Cloud infrastructures to include AWS, and OpenStack both with RedHat and Open Source technologies internally and for clients nationwide.
+* Automate Cloud infrastructures to include AWS, and OpenStack both with RedHat and Open-Source technologies internally and for clients nationwide.
 
-Accelarad, Inc. - Atlanta, GA
-Sr. Linux Systems Architect - IT Operations - 7/2013 - 1/2014
-Senior Linux/Puppet team member for Accelarad Atlanta Headquarters (now Nuance)
-Duties: Straight Systems architecture and administration for SAAS Radiology provider in the Atlanta market.  Provisioning, Puppet configuration management, all architectural design and implementation. 
+Accelarad, Inc. – Atlanta, GA
+Sr. Linux Systems Architect – IT Operations – 7/2013 – 1/2014
+Senior Linux/Puppet team leader for Accelarad Atlanta Headquarters (now Nuance)
+Duties: Straight Systems architecture and administration for SAAS Radiology provider. Provisioning, Puppet configuration management, all architectural design and implementation.
 * Designed, developed, and implemented primary monitoring solution for all hosts, applications, and networking infrastructure.
-* Conceived, designed, installed and implemented Puppet Community configuration management system with Passenger and MCollective as well as developed and implemented all modules and manifests.  Developed deployment system for development team and implemented -push button- integration system for code deployment.
+* Conceived, designed, installed, and implemented Puppet Community configuration management system with Passenger and MCollective as well as developed and implemented all modules and manifests. Developed deployment system for development team and implemented “push button” integration system for code deployment.
 * Conceived, designed, developed, and implemented cohesive provisioning system with transparent configuration management handoff.
 
-Apple, Inc. - Maiden, NC
-Sr. UNIX Systems Administrator - GCS Retail - 7/2011 - 6/2013
+Apple, Inc. – Maiden, NC
+Sr. UNIX Systems Engineer – GCS Retail – 7/2011 – 6/2013
 Retail Systems Engineer and Puppet SME for worldwide Apple Retail Chain
-Duties: Perform systems administration, architecture, and engineering tasks for Apple retail stores worldwide to include OSX Server and RHEL 6.2 systems.  Provisioning of Mac Pro and Linux systems as POS Production systems in retail stores, troubleshooting various issues in-store as they arise, and working with store staff to resolve issues.
-* Upgraded all retail stores worldwide from OSX Server 10.5.8 to 10.6.5, deploying new Netboot imaging servers to all retail stores and updating all system images to the latest levels certified by POS Team.  Developed Perl -glue- code to automate the procedure from data center servers.
+Duties: Perform systems administration, architecture, and engineering tasks for Apple retail stores worldwide to include OSX Server and RHEL 6.2 systems. Provisioning of Mac Pro and Linux systems as POS Production systems in retail stores, troubleshooting various issues in-store as they arise, and working with store staff to resolve issues.
+* Upgraded all retail stores worldwide from OSX Server 10.5.8 to 10.6.5, deploying new Netboot imaging servers to all retail stores and updating all system images to the latest levels certified by POS Team. Developed Perl “glue” code to automate the procedure from data center servers.
 * Performed New Store Openings for the 2011/2012 season, executing GCS Retail tasks on an aggressive timeline for opening day. with Retail groups, coordinating across IS&T, GNS, and other groups as necessary.
-* Architected, developed and deployed Puppet Configuration management system for systems throughout the retail chain worldwide.  Deployed Puppet infrastructure to retail stores through staged rollout without unplanned outages.
+* Architected, developed and deployed Puppet Configuration management system for systems throughout the retail chain worldwide. Deployed Puppet infrastructure to retail stores through staged rollout without unplanned outages.
 
 Incomm, Inc. - Atlanta, GA
 Sr. Linux Systems Administrator - Operations Group - 11/2010 - 7/2011
@@ -165,22 +275,25 @@ Quantum StorNext Administration
 Denver, Colorado
 2 Weeks Instruction 
 Computer Expertise:* RHCE/RHCSA/RHSH #140-046-236
-* Puppet Certified Professional #PPT0002329
-* Puppet Enterprise, Community, Jenkins, TravisCI, puppet-rspec, and Beaker testing
-* AWS, Azure, Google Cloud, OpenStack, Vagrant, Terraform, Packer cloud automation.
-* VMWare Server, ESX/i and Fusion, VirtualBox, Parallels, and Xen Virtualization Technologies
+* Puppet Certified Professional #PCP-1121385654
+* Puppet Enterprise, Community, Jenkins, GitHub Actions, puppet-rspec, and Beaker testing
+* AWS, Google Cloud, Vagrant, and cloud automation.
+* VMWare Server, VirtualBox, and Xen Virtualization Technologies
 * Build Vagrant/Virtualbox environments for Puppet development and maintain as open source projects
-* Docker, Chef, Ansible, and other automation/devops technologies
-* Perl, Shell, Unix Utilities (awk, sed, expect)
-* Oracle, MySQL, PostgreSQL
+* Docker, Ansible, and other automation/devops technologies
+* Perl, BASH, Unix Utilities (awk, sed, expect)
+* MySQL, PostgreSQL
 * SMTP, POP, DNS, FTP, HTTP, SNMP, SSH, IMAP, NFS, and LDAP
 * Network Monitoring with OSS tools such as XyMon, Nagios, ZenOSS, Nmap, and Ntop
-* AIX - 14 years, Linux - 20 years (RHEL, SuSE, Ubuntu, Slackware), BSD - 8 years
+* AIX – 14 years, Linux – 25 years (RHEL, SuSE, Ubuntu, Slackware), BSD – 8 years
+
 Of Note:Chairman of the Board of Directors, CorpsVets, Inc. http://www.atlantacv.org
 Owner/Operator of home-based PC & Linux Small-Business Server Consulting Company.
 Staff Author - Linux.com (OSDN Network)
-   - -Kickstarting Linux Client Installs-, Internet Website: http://www.linux.com/archive/feature/113526, 2003
-   - -Making Open Webmail Work-, Internet Website http://archive09.linux.com/articles/33550, 2004
+   - "Kickstarting Linux Client Installs", Internet Website: http://www.linux.com/archive/feature/113526, 2003
+   - "Making Open Webmail Work", Internet Website http://archive09.linux.com/articles/33550, 2004
+Contributing Author – Puppet.com
+   - “Scaling Open-Source Puppet”, Internet Website https://puppet.com/blog/scaling-open-source-puppet/, 2020
 LinkedIn Profile: https://www.linkedin.com/in/jeraldsheets/
 -Jerald is a great asset to this team and PayPal as a whole. Jerald if very knowledgeable in his areas and has quickly become the 'go to' person for Puppet. This coming year we are going to get Jerald involved in more projects which will allow Jerald to expand his skill set and lend a helping hand to the rest of the team. I have no doubt that Jerald will quickly become a strong lead member of this team.-
  - Thomas Fosbenner
