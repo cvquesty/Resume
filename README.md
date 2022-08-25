@@ -11,7 +11,7 @@ http://questy.org<br>
 **Resumes**<br>
 [Professional Technical Resume](https://github.com/cvquesty/Resume/raw/master/resume.pdf)<br>
 [Ministry Resume](https://github.com/cvquesty/Resume/raw/master/Worship%20Resume.pdf)<br>
-References<br>
+[References](https://github.com/cvquesty/Resume/raw/master/references.pdf)<br>
 
 **Certifications/Training**<br>
 
