@@ -15,6 +15,9 @@ http://questy.org<br>
 
 **Certifications/Training**<br>
 
+**The Assemblies of God**<br>
+License to Preach - Conferred October 2022<br>
+
 **St. Stephen's University**<br>
 St. Stephen, New Brunswick, CA<br>
 Bachelor of Arts - Christian Studies<br>
