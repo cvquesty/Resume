@@ -122,7 +122,7 @@ World Headquarters of Thomson Financial housing over 200 online systems and 50 i
 Duties:  Managed and supported large network of a large array of UNIX servers providing E-Commerce, Financial management, and Education scheduling and planning.
 Key Contributions:
 •	Implemented wide scale usage of Open-Source tools for development teams for online E-commerce applications.
-•	Evaluated Systems Monitoring Software and implemented various projects for evaluation by management and coworkers.
+•	Evaluated Systems Monitoring Software and implemented various projects for evaluation by management and coworkers.
 Education &
 Training:Louisiana State University
 Baton Rouge, Louisiana 70802
@@ -172,7 +172,7 @@ Graduated:  May, 1991 2nd in class.
 
 Quantum StorNext Administration 
 Denver, Colorado
-2 Weeks Instruction 
+2 Weeks Instruction 
 Computer Expertise:* RHCE/RHCSA/RHSH #140-046-236
 * Puppet Certified Professional #PCP-1121385654
 * Puppet Enterprise, Community, Jenkins, GitHub Actions, puppet-rspec, and Beaker testing
@@ -185,7 +185,7 @@ Computer Expertise:* RHCE/RHCSA/RHSH #140-046-236
 * SMTP, POP, DNS, FTP, HTTP, SNMP, SSH, IMAP, NFS, and LDAP
 * Network Monitoring with OSS tools such as XyMon, Nagios, ZenOSS, Nmap, and Ntop
 * AIX – 14 years, Linux – 25 years (RHEL, SuSE, Ubuntu, Slackware), BSD – 8 years
-
+
 Of Note:Chairman of the Board of Directors, CorpsVets, Inc. http://www.atlantacv.org
 Owner/Operator of home-based PC & Linux Small-Business Server Consulting Company.
 Staff Author - Linux.com (OSDN Network)
