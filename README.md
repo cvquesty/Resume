@@ -31,6 +31,10 @@ Bachelor of Arts - Christian Studies<br>
 **Vineyard Institute**<br>
 * Advanced Certificate of Bibleical Leadership<br>
 
+**Evangel University**<br>
+Springfield, Missouri<br>
+Master's Program, 2023 - Present
+
 **Vendor Training:**<br>
 <br>
 **RedHat:**
