@@ -5,9 +5,7 @@ jerald.sheets@gmail.com
 
 Senior Contributor, Team Lead, and Architectural Expert
 
-Profile: Talented Technology Thought-Leader with thirty-four years progressively responsible IT experience.
-Puppet Configuration Management architecture, deployment, consulting, and instruction. Linux systems
-Engineering, Architecture, and workstation optimization. Information Security, Compliance, and Automation
+Profile: Talented Technology Thought-Leader with thirty-four years progressively responsible IT experience. Puppet Configuration Management architecture, deployment, consulting, and instruction. Linux systems Engineering, Architecture, and workstation optimization. Information Security, Compliance, and Automation
 
 Oak Ridge National Laboratory (UT-Batelle) – Oak Ridge, TN – Remote
 Sr. HPC Linux Systems Administrator – Puppet Community - 3/2023 – Present
@@ -22,7 +20,7 @@ and maintenance of the environment.
 Penacity, LLC. - Hanover MD - Remote
 Sr. Automation Solutions Architect - Puppet Enterprise - 3/2022 - 3/2023
 Team Lead - Puppet Automation
-Duties: Perform architectural design and implementation of Puppet Enterprise in on premises and AWS environments both for U.S. Government clients and the corporate office. Act as SME for all Puppet Configuration Management tools and methods, Automation, CI/CD, and Development in regrds to Puppet.
+Duties: Perform architectural design and implementation of Puppet Enterprise in on premises and AWS environments both for U.S. Government clients and the corporate office. Act as SME for all Puppet Configuration Management tools and methods, Automation, CI/CD, and Development in regards to Puppet.
 •	Remote leadership of Puppet Enterprise Infrastructure and cloud envirionments.
 •	Puppet Enterprise and Community development, implementation and deployment in secured government environments with and without network egress.
 •	AWS-Based Puppet build and deployment as well as module design, Roles and Profiles pattern implementation and management, and problem resolution in secure and non-secured environments.
