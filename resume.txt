@@ -5,17 +5,19 @@ jerald.sheets@gmail.com
 
 Senior Contributor, Team Lead, and Architectural Expert
 
-Profile:Talented Technology Thought-Leader with twenty-nine years progressively responsible IT experience. Puppet Configuration Management architecture, deployment, consulting, and instruction. Linux systems
-
+Profile: Talented Technology Thought-Leader with thirty-four years progressively responsible IT experience.
+Puppet Configuration Management architecture, deployment, consulting, and instruction. Linux systems
+Engineering, Architecture, and workstation optimization. Information Security, Compliance, and Automation
 
 Oak Ridge National Laboratory (UT-Batelle) – Oak Ridge, TN – Remote
-Sr. HPC Systems Administrator – Puppet Community - 3/2023 – Present
+Sr. HPC Linux Systems Administrator – Puppet Community - 3/2023 – Present
 Puppet Automation
-Duties: Perform Puppet Installation, configuration, and management duties for the Digital Archive for atmospheric data systems. Primary customer: NASA for environmental data needed for launch operations. 
-•	Install, configure, and maintain Puppet Community installation to include development, archiving, deployment, and other duties as needed to care for an feed the Puppet Environment
-•	Train other staff personnel on the use and management of the Puppet Environment
-•	Develop documentation, best practices, and maintain a relationship with Puppet for management and maintenance of the environment.
-
+Duties: Perform Puppet Installation, configuration, and management duties for the Digital Archive for atmospheric data systems. Primary customer: NASA for environmental data needed for launch operations, environmental research, and sharing and administration of needed ESDIS data and artifacts.
+• 	Install, configure, and maintain Puppet Community installation to include development, archiving,
+deployment, and other duties as needed to care for and feed the Puppet Environment
+• 	Convert entire Digital Active Archive to RHEL8 on VSphere8 using Ixsystems Storage in time for RHEL6 EOL.
+• 	Develop documentation, best practices, and maintain a relationship with Puppet for management
+and maintenance of the environment.
 
 Penacity, LLC. - Hanover MD - Remote
 Sr. Automation Solutions Architect - Puppet Enterprise - 3/2022 - 3/2023
@@ -24,6 +26,7 @@ Duties: Perform architectural design and implementation of Puppet Enterprise in 
 •	Remote leadership of Puppet Enterprise Infrastructure and cloud envirionments.
 •	Puppet Enterprise and Community development, implementation and deployment in secured government environments with and without network egress.
 •	AWS-Based Puppet build and deployment as well as module design, Roles and Profiles pattern implementation and management, and problem resolution in secure and non-secured environments.
+•	RHEL 6/7/8 Administration, Engineering, and Integration. IAM with Okta, and system integration duties.
 
 PayPal, Inc. – Atlanta, GA - Remote
 Sr. Continuous Security Strategist – Infrastructure Automation - 8/2016 – 3/2022
@@ -32,6 +35,7 @@ Duties: Perform architectural design and review for PayPal DevOps infrastructure
 •	Remote leadership and management of Puppet automation infrastructure, training, and development of automation engineers for team project work.  Set standard and style guide for automation development.
 •	Built and deployed 100% automated CI pipeline for automation platform development using Puppet, Jenkins, GitHub, Docker, Litmus and Onceover RSPEC/ServerSpec testing and other technologies.
 •	Work in AWS, Google Cloud, and other proprietary cloud infrastructures to deliver containerized applications as well as traditional server architectures. Migration and automation of cloud infrastructures with Puppet, Vagrant, and other emerging technologies.
+•	Work with Engineering teams in AWS, GCP, and Azure to implement automation over RHEL6/7 and Ubuntu 16.04-18.04 as well as test 20.x for viability.
 
 Shadow-Soft – Atlanta, GA
 Sr. Puppet and Solutions Architect – Consultant – 1/2014 – 8/2016
@@ -42,6 +46,7 @@ Duties: Perform professional engagements with clients nationwide on behalf of Pu
 •	Train and develop customers on the use of Puppet for their corporate environments.
 •	Lead team of consultants, and train and equip team for Puppet based engagements nationwide.
 •	Automate Cloud infrastructures to include AWS, and OpenStack both with RedHat and Open-Source technologies internally and for clients nationwide.
+•	Obtain RHCE 6.x as a requirement of maintaining RedHat Partnership. Add RHSH (Server Hardening) certification as well as Puppet Certified Professional.
 
 Accelarad, Inc. – Atlanta, GA
 Sr. Linux Systems Architect – IT Operations – 7/2013 – 1/2014
@@ -160,6 +165,10 @@ Vineyard School of Ministry
 - Biblical Theology Certificate
 - Kingdom Theology Certificate
 
+Evangel University
+Springfield, MO
+Master's Program, 2023 - Present
+
 Puppet Fundamentals  & Advanced Training
 Atlanta, GA
 6 Days Instruction
@@ -173,28 +182,34 @@ Graduated:  May, 1991 2nd in class.
 Quantum StorNext Administration 
 Denver, Colorado
 2 Weeks Instruction 
-Computer Expertise:* RHCE/RHCSA/RHSH #140-046-236
-* Puppet Certified Professional #PCP-1121385654
-* Puppet Enterprise, Community, Jenkins, GitHub Actions, puppet-rspec, and Beaker testing
-* AWS, Google Cloud, Vagrant, and cloud automation.
-* VMWare Server, VirtualBox, and Xen Virtualization Technologies
-* Build Vagrant/Virtualbox environments for Puppet development and maintain as open source projects
-* Docker, Ansible, and other automation/devops technologies
-* Perl, BASH, Unix Utilities (awk, sed, expect)
-* MySQL, PostgreSQL
-* SMTP, POP, DNS, FTP, HTTP, SNMP, SSH, IMAP, NFS, and LDAP
-* Network Monitoring with OSS tools such as XyMon, Nagios, ZenOSS, Nmap, and Ntop
-* AIX – 14 years, Linux – 25 years (RHEL, SuSE, Ubuntu, Slackware), BSD – 8 years
+Computer Expertise:
+• RHCE/RHCSA/RHSH #140-046-236
+• Puppet Certified Professional #PCP-1121385654 (2014, 2018, and 2019)
+• Puppet Enterprise, Community, Jenkins, GitHub Actions, puppet-rspec, and Beaker testing
+• AWS, Google Cloud, Vagrant, and cloud automation.
+• VMWare Server, VSphere 8, VirtualBox, and Xen Virtualization Technologies
+• Build Vagrant/Virtualbox environments for Puppet development and maintain as open-source projects
+• Perl, BASH, Unix Utilities (awk, sed, expect)
+• MySQL, PostgreSQL
+• SMTP, POP, DNS, FTP, HTTP, SNMP, SSH, IMAP, NFS, and LDAP
+• Network Monitoring with OSS tools such as XyMon, Nagios, ZenOSS, Nmap, and Ntop
+• AIX – 27 years, Linux – 29 years (RHEL, SuSE, Ubuntu, Slackware), BSD – 12 years
 
 Of Note:Chairman of the Board of Directors, CorpsVets, Inc. http://www.atlantacv.org
-Owner/Operator of home-based PC & Linux Small-Business Server Consulting Company.
-Staff Author - Linux.com (OSDN Network)
-   - "Kickstarting Linux Client Installs", Internet Website: http://www.linux.com/archive/feature/113526, 2003
-   - "Making Open Webmail Work", Internet Website http://archive09.linux.com/articles/33550, 2004
+Owner/Operator of Puppet Server Consulting Company.
+- https://www.ssconsultinggroup.net
+Puppet Community Blogger
+- https://questy.org
+Staff Author – Linux.com (OSDN Network)
+- “Kickstarting Linux Client Installs”, Internet Website: https://www.linux.com/news/kickstarting-linux-client-
+installs/, 2003
+- “Making Open Webmail Work”, Internet Website https://www.linux.com/news/making-open-webmail-work/,
+2004
 Contributing Author – Puppet.com
-   - “Scaling Open-Source Puppet”, Internet Website https://puppet.com/blog/scaling-open-source-puppet/, 2020
-LinkedIn Profile: https://www.linkedin.com/in/jeraldsheets/
--Jerald is a great asset to this team and PayPal as a whole. Jerald if very knowledgeable in his areas and has quickly become the 'go to' person for Puppet. This coming year we are going to get Jerald involved in more projects which will allow Jerald to expand his skill set and lend a helping hand to the rest of the team. I have no doubt that Jerald will quickly become a strong lead member of this team.-
+Community Contributor - Puppet Ecosystem
+- “Scaling Open-Source Puppet”, Internet Website
+https://ssconsultinggroup.net/index.php/2020/05/12/scaling-puppet-community/, 2020
+LinkedIn Profile: https://www.linkedin.com/in/jeraldsheets/-Jerald is a great asset to this team and PayPal as a whole. Jerald if very knowledgeable in his areas and has quickly become the 'go to' person for Puppet. This coming year we are going to get Jerald involved in more projects which will allow Jerald to expand his skill set and lend a helping hand to the rest of the team. I have no doubt that Jerald will quickly become a strong lead member of this team.-
  - Thomas Fosbenner
 Excerpt from 2016 performance Evaluation
 
