@@ -9,7 +9,7 @@ http://questy.org<br>
 912-549-0272<br>
 
 **Resumes**<br>
-[Professional Technical Resume](https://github.com/cvquesty/Resume/raw/master/resume.pdf)<br>
+[Professional Technical Resume](https://github.com/cvquesty/Resume/raw/master/resume2025.pdf)<br>
 [Ministry Resume](https://github.com/cvquesty/Resume/raw/master/Ministry_Resume.pdf)<br>
 [References](https://github.com/cvquesty/Resume/raw/master/references.pdf)<br>
 
