@@ -63,7 +63,7 @@ AWS Practitioner - 2020<br>
 <br>
 **CISSP Certification Prep:**<br>
 * Cert Prep: The Basics<br>
-* Part 1: Security and Risk Management<nr>
+* Part 1: Security and Risk Management<br>
 * Part 2: Asset Security<br>
 * Part 3: Security Architecture and Engineering<br>
 * Part 4: Communication and Network Security<br>
