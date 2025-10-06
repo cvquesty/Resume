@@ -17,6 +17,12 @@ http://questy.org<br>
 
 **The Assemblies of God**<br>
 License to Preach - Conferred October 2022<br>
+Ordination        - Conferred May 5, 2025<br>
+
+**Assembly of God Theological Seminary**<br>
+Springfield, MO, USA<br>
+Masters Program: "Master of Arts in Theological Studies"<br>
+June 2023 - Present<br>
 
 **St. Stephen's University**<br>
 St. Stephen, New Brunswick, CA<br>
@@ -30,10 +36,6 @@ Bachelor of Arts - Christian Studies<br>
 
 **Vineyard Institute**<br>
 * Advanced Certificate of Bibleical Leadership<br>
-
-**Evangel University**<br>
-Springfield, Missouri<br>
-Master's Program, 2023 - Present
 
 **Vendor Training:**<br>
 <br>
