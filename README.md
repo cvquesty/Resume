@@ -9,9 +9,9 @@ http://questy.org<br>
 912-549-0272<br>
 
 **Resumes**<br>
-[Professional Technical Resume](https://github.com/cvquesty/Resume/raw/master/resume2025.pdf)<br>
-[Ministry Resume](https://github.com/cvquesty/Resume/raw/master/Ministry_Resume.pdf)<br>
-[References](https://github.com/cvquesty/Resume/raw/master/references.pdf)<br>
+[Professional Technical Resume](https://github.com/cvquesty/Resume/blob/master/Jerald%20Sheets%20Resume%20-%202025.docx)<br>
+[Ministry Resume](https://github.com/cvquesty/Resume/blob/master/Ministry_Resume.doc)<br>
+[References](https://github.com/cvquesty/Resume/blob/master/references.pdf)<br>
 
 **Certifications/Training**<br>
 
