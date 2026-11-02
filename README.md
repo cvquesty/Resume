@@ -10,7 +10,7 @@ http://questy.org<br>
 
 **Resumes**<br>
 [Professional Technical Resume](https://github.com/cvquesty/Resume/blob/master/Jerald%20Sheets%20Modern_Resume%20-%202026.docx)<br>
-[Ministry Resume](https://github.com/cvquesty/Resume/blob/master/Ministry_Resume.pdf)<br>
+[Ministry Resume](https://github.com/cvquesty/Resume/blob/master/Jerald%20Sheets%20Ministry_Resume%20-%202026.pdf)<br>
 [References](https://github.com/cvquesty/Resume/blob/master/references.pdf)<br>
 
 **Certifications/Training**<br>
