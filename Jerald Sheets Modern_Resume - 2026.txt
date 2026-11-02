@@ -1,0 +1,89 @@
+JERALD SHEETS
+Staff Linux Platform & Configuration-Management Architect
+Charleston, TN  ·  Remote
+jerald.sheets@gmail.com  |  (423) 589-7111
+linkedin.com/in/JeraldSheets  |  github.com/cvquesty  |  questy.org
+
+LINUX  ·  PLATFORM  ·  AUTOMATION
+
+PROFESSIONAL SUMMARY
+Staff-level Linux platform and configuration-management architect with 20+ years operating enterprise fleets. Specialist in Puppet Enterprise and OpenVox — the VoxPupuli community's open-source continuation of Puppet Community — including r10k, Hiera, roles and profiles, and CI. Proven at SpaceXai, Oak Ridge National Laboratory (ORNL) and U.S. Government PE, PayPal security automation, and Puppet Labs partner consulting. Author, reviewer, trainer, and VoxPupuli / OpenVox contributor.
+
+CORE COMPETENCIES
+Configuration Mgmt     Puppet Enterprise · OpenVox (VoxPupuli; successor to Puppet Community) · Hiera · r10k / Code Manager · Roles & Profiles
+Automation & DevOps    CI/CD · Jenkins · GitHub Actions · Docker · Vagrant · Golden-image provisioning · Kickstart / PXE
+Cloud & Platforms      AWS · GCP · RHEL / Rocky · Linux & UNIX fleets · OpenStack
+Quality & Testing      rspec-puppet · Serverspec · Onceover · Litmus · Beaker
+Languages & Tooling    Bash · Perl · Git · Python (working) · SQL
+Leadership & Security  Team lead · SME consulting · training · SOPs · audit · VoxPupuli / OpenVox contributor
+
+PROFESSIONAL EXPERIENCE
+
+SpaceXai — Sr. Linux Systems Engineer, IT Systems · Remote · Dec 2025 – Present
+- Architect Puppet Enterprise automation for worldwide SpaceXai infrastructure: modules, tests, and CI/CD. Pair PE with OpenVox — VoxPupuli's continuation of Puppet Community — for fleet practice, SOPs, compliance, and audit.
+- Design and maintain OpenVox GUI — open-source operator platform for OpenVox/Puppet Community fleets (dashboard, hierarchical ENC, Bolt, r10k, CA, PQL) — and contribute it back to the VoxPupuli / OpenVox ecosystem.
+- Design and support Linux-based applications and systems for engineering working groups; own SOPs, compliance, and audit readiness; mentor engineers.
+
+Oak Ridge National Laboratory (UT-Battelle) — Sr. Linux Systems Administrator, Puppet Automation · Remote · Mar 2023 – Nov 2025
+- Led Puppet Community automation (the open-source line now continued as OpenVox by VoxPupuli) for the ORNL DAAC — NASA-facing biogeochemical data systems used by NASA, NOAA, and other federal partners.
+- Architected and administered highly available RHEL-based environments; owned install, configuration, environment promotion, and day-2 operations of the Puppet estate.
+- Built documentation, best practices, and training; led a team of four engineers on automation standards and operational excellence.
+
+Penacity, LLC — Sr. Automation Solutions Architect (Contract) · Remote · Mar 2022 – Mar 2023
+- SME for Puppet Enterprise architecture on-premises and in AWS for U.S. Government (including USDA) and corporate environments — secured deployments with and without network egress.
+- Implemented PE environments, installation modules, Roles & Profiles patterns, upgrades, and operational troubleshooting for customer engineering teams.
+- Delivered training and enablement that improved customer self-sufficiency on PE development and day-to-day automation operations.
+
+PayPal, Inc. — Sr. Continuous Security Strategist, Puppet Automation · Remote · Aug 2016 – Mar 2022
+- Led Information Security automation with Puppet as platform SME; set style guides and standards for automation engineers across security initiatives.
+- Built continuous-security CI/CD with Jenkins, Puppet, Docker, GitHub, and rspec/Serverspec-class testing (Onceover, Litmus) for automation delivery.
+- Automated provisioning from golden image through production; drove security process automation in AWS and Google Cloud for containerized and traditional architectures.
+
+Shadow-Soft — Puppet Labs Partner Consulting — Sr. Puppet & Solutions Architect, Team Lead · Remote / Travel · Jan 2014 – Aug 2016
+- Delivered nationwide Puppet Enterprise greenfield and brownfield engagements as a Puppet Labs partner consultant: PE bootstraps, pair programming, and architecture reviews.
+- Led a team of four consultants; trained customer teams and internal staff for PE and DevOps delivery engagements.
+- Represented the Puppet ecosystem through conference speaking (including Puppet Camp), blogging, and community support; automated client cloud footprints (AWS, OpenStack) with PE.
+
+Accelarad / Nuance — Radiology SaaS — Sr. Linux Systems Architect · Atlanta, GA / Remote · Jul 2013 – Jan 2014
+- Primary Linux architect for the Accelarad fleet; designed and deployed Puppet Community (Passenger/MCollective), a full module estate, and Kickstart-style provisioning with CM handoff.
+- Implemented enterprise monitoring for hosts, applications, and network in a radiology SaaS operations environment.
+
+Apple, Inc. — GCS Retail — Sr. UNIX Systems Engineer · Maiden, NC · Jul 2011 – Jul 2013
+- Systems architecture and operations for Apple Retail worldwide (OS X Server and RHEL POS); new-store openings and go-live coordination across IS&T, GNS, and retail teams.
+- Architected and staged Puppet configuration management across the global retail chain without unplanned outages.
+- Led worldwide retail OS X Server upgrade (10.5.8 to 10.6.x) with NetBoot imaging and automation to accelerate store rollout.
+
+CNN News Systems — BEST — Sr. Systems Engineer · Atlanta, GA · Oct 2008 – Aug 2010
+- Owned the CNN digital video library and tape archive stack (Sun StorageTek SL8500, Quantum StorNext, Solaris, RHEL); storage, Kickstart, and LDAP operations.
+- Migrated the digital media archive to a new data center — authentication, monitoring, and host support — without downtime and under budget. 24x7 on-call without a dedicated NOC.
+
+The Weather Channel Interactive — Sr. Linux Systems Administrator · Atlanta, GA · Jun 2005 – Oct 2008
+- Operated web serving infrastructure for one of the world's highest-traffic sites on SUSE Linux, Apache, and Tomcat; tens of millions of daily unique visitors, higher at peak weather events.
+- Performance-tuned the JVM and serving stack (reported gains up to ~30% on key systems); custom Apache/Tomcat builds; introduced VMware for development/test isolation.
+
+EARLIER EXPERIENCE (SELECTED)
+InComm — Sr. Linux Systems Administrator (Contract) · Atlanta · 2010–2011 — Kickstart/PXE, inventory systems, peak-season war-room ops.
+Intercontinental Hotels Group — Sr. Technology Consultant · Atlanta · 2010 — RHEL hardening/compliance, asset inventory.
+McKesson — Sr. UNIX/Linux Systems Administrator · Atlanta · 2004–2005 — HP-UX / AIX / RHEL for healthcare medication-delivery platforms.
+Datatrac — Sr. UNIX/Linux Systems Administrator · Atlanta · 2004 — Multi-platform fleet (AIX, SCO, RHEL).
+Our Lady of the Lake RMC — Sr. AIX Systems Administrator · Baton Rouge · 2001–2004 — Enterprise RS/6000 estate (5,000+ users); TSM, ESS/SSA.
+Earlier UNIX/Linux roles: Thomson Financial; 3Com (Sprint IP Dial); Tribute, Inc.; Explore Baton Rouge; LSU networking (student).
+
+CERTIFICATIONS
+- Puppet Certified Professional (2014, 2018, 2019) — #PCP-1121385654
+- Red Hat Certified Engineer / System Administrator (RHCE/RHCSA) — #140-046-236
+- Telcordia PRO-INS
+- Additional training: Puppet Fundamentals & Advanced; AWS / DevOps / Docker / Kubernetes essentials; Sun StorageTek; Quantum StorNext; IBM AIX
+
+PUBLICATIONS, SPEAKING & OPEN SOURCE
+- Technical Reviewer — Puppet 8 for DevOps Engineers (Packt)
+- Author — "Scaling Puppet Community" / "Scaling Open-Source Puppet" (Puppet community publication)
+- Staff Author — Linux.com: "Kickstarting Linux Client Installs"; "Making Open Webmail Work"
+- Conference speaking and community engagement (Puppet Camp / ecosystem advocacy)
+- OpenVox GUI — primary author (github.com/cvquesty); OpenVox lint and community docs in the VoxPupuli / OpenVox Project. Amateur radio: KO4JIL
+
+EDUCATION
+Master of Arts, Theological Studies — Evangel University, Springfield, MO (in progress)
+Bachelor of Arts, Christian Studies — St. Stephen's University, St. Stephen, NB (2016)
+Coursework toward B.S. Music Education — Louisiana State University, Baton Rouge
+Technical diploma — International Technical Institute, Baton Rouge (1991; 2nd in class)

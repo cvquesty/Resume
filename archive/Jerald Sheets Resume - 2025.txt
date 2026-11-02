@@ -1,0 +1,32 @@
+Jerald Sheetsjerald.sheets@gmail.com   |  (423) 589-7111  |  Charleston, TNPortfolio: https://github.com/cvquestyLinkedIn: https://www.linkedin.com/in/JeraldSheets
+Website: https://questy.orgWORK EXPERIENCEOak Ridge National LaboratoryMar. 2023 Ð PresentSr. Linux Systems Administrator - Puppet Automation								Remote* Maintain ORNL Digital Active Archive (DAAC) system for NASA run projects.Archive and present biogeochemical data to NASA, NOAA, and other governmental entities* Straight Systems Architecture and Administration, automation with Puppet Community.Manage and maintain highly available environment of RHEL-based data systems for government* Develop documentation, best practices and training materials, and lead a team of 4 engineers.Penacity, LLCMar. 2022 Ð Mar. 2023Sr. Automation Solutions ArchitectRemote ContractPerform architectural design and implementation of Puppet Enterprise in on-premises and AWS environments
+both for U.S. Government clients and the corporate office. Act as SME for all Puppet Configuration
+Management tools and methods, Automation, CI/CD, and development in regard to Puppet.* As the Puppet SME, I worked closely with the USDA staff and management to implement new environments,
+develop new installation modules, and to maintain operational efficiency of the Automation Environmento Performed Puppet upgrades, development, and training to increase customer engagement and abilitieso Worked with USDA team to troubleshoot and implement new environments automated with Puppet.PayPal, Inc.
+Aug. 2016 Ð Mar 2022Sr. Continuous Security Strategist - Puppet AutomationRemote* Lead and manage Information Security automation initiatives with Puppet Configuration Management
+tools and methods.o Built Continuous Security CI/CD Pipeline DevOps workflows with Jenkins, Puppet, Docker, and GitHubo Automate entire provisioning framework with Puppet from "Golden Image" to production.* Cloud Technologies - Automate key PayPal security processes in AWS and Google Cloud, delivering
+containerized and traditional architectures.Shadow-Soft
+Jan. 2014 Ð Aug. 2016Sr. Puppet and Solutions ArchitectRemote/Traveling Consultant* Nationwide Travel Consultant implementing Puppet Enterprise for corporate customers as a Puppet Labs Partner
+Consulting Engineer* Conference Speaking, Social Media Presence, and blogging on behalf of the Puppet ecosystem for Shadow-Soft* Lead team of 4 consultants, train and equip for Puppet Labs engagements nationwideAccelarad/Nuance
+July 2013 Ð Jan. 2014Sr. Linux Systems ArchitectAtlanta, GA, Remote* Main Linux Systems Architect for entire Accelarad fleet. Team leader and implementation specialist
+for Radiology SAAS Solution.Apple, Inc
+July 2011 - July 2013Sr. UNIX Systems EngineerMaiden, NC* Systems Architecture, Engineering, and Administration for all Apple Stores worldwide. Performed New
+Store Openings, trained staff, and organized entire "go live" for in-store POS servers and equipmentIncomm, Inc.
+Nov. 2010 - July 2011Sr. Linux Systems Administrator - ContractAtlanta, GA* Systems Administrator for prepaid card industry leader. Inventory management, provisioning (kickstart)
+and holiday 24-hour observability rotation.Intercontinental Hotels Group
+Aug. 2010 - Oct. 2010Sr. Technology ConsultantAtlanta, GA* Staff augmentation for various expansion projects and engineering needs. Build Asset Inventory system,
+procure hardware and network equipment and bring RedHat systems within hardening compliance guidelines.CNN News Systems
+Oct. 2008 - Aug. 2010Sr. Systems EngineerAtlanta, GA* Responsible for CNN video library and Tape archival system. Sun StorageTek SL 8500 systems, Sun Solaris,
+RedHat Linux, and data center management. * Upgrade of entire serving infrastructure,  decommission old hardware, and excess old equipment* Manage and maintain RedHat Linux platform machines, program in Perl and BASH, and support development
+teams and leadership.The Weather Channel Interactive
+Jun. 2005 - Oct. 2008Sr. Linux Systems AdministratorAtlanta, GA* Daily maintenance and configuration of web serving infrastructure for what was at the tie the 7th most
+visited website in the world by traffic. Utilized SuSE 9 & 10 and a combination of the Apache Web Server
+and Tomcat Servlet container to for hosting. Troubleshoot and introspect the JVM Virtual Machine with Java
+tools and monitoring products, providing guidance to development as to changes to resolve various issues with
+the platform.EDUCATION	Evangel University
+Springfield, MO
+CurrentMaster of Arts - Theological StudiesSt. Stephen's University
+St. Stephen, NB CA
+Mar. 2008 - Apr. 2016Bachelor of Arts - Christian Studies - GraduatedLouisiana State University
+Baton Rouge, LA
+Aug. 1985-Dec. 1988, Jun. 1995 - May. 1996Bachelor of Science - Music Education - 60 HoursCERTIFICATIONS, SKILLS & INTERESTS * Certifications: Puppet Certified Professional (2014, 2018, 2019) * RHCE/RHCSA/RHSH (2014) * Telcordia PRO-INS* Technologies: DevOps, Consulting, Linux/UNIX, AWS, GCP, Puppet, Git, RSPEC, Serverspec, BASH, Perl* Skills Team Leadership, Automation, Infrastructure Development, Training, Documentation, Presenting, Speaking* Interests: HAM Radio (KO4JIL), Music, Open-Source Contribution, Hiking, Training, Public Speaking* Writing: Author: "Scaling Puppet Community", "Kickstarting Linux Client Installs", "Making Open Webmail Work", Technical Reviewer: "Puppet 8 for DevOps Engineers"
